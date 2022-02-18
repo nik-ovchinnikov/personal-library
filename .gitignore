@@ -11,7 +11,7 @@
 personal-library.zip
 
 
-/frontend/node-modules
-/frontend/.idea
-/frontend/.angular
-/frontend/.vscode
+/frontend/personal_lib/node_modules
+/frontend/personal_lib/.idea
+/frontend/personal_lib/.angular
+/frontend/personal_lib/.vscode
